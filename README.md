@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Привет! 👋
+
+Я ML - разработчик, занимаюсь web и  разработкой. Ниже — список моих проектов:
+
+## 🚀 Мои проекты
+
+- [🔧 MyApp ]() – 
+
+- [🌐 Website](https://leimansite.pythonanywhere.com/) – сайт
+
+## 📫 Контакты
+
+- Email: lejman.max@yandex.ru
+- Telegram: [@maksim_l173](https://t.me/maksim_l173)
