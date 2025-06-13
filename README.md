@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Мои проекты:
 
-- [🔧 MyApp ]() – 
+- [🔧 Задание ZALA](https://github.com/MALeyman/Zala_task) – Детектирование объектов с БПЛА (тестовое задание ZALA)
 - [ 🎓 Иннополис ](https://github.com/MALeyman/MAKSIM) – Занятия в Иннополис.
 - [🌐 Website](https://leimansite.pythonanywhere.com/) – сайт
 
