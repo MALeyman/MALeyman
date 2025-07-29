@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 
 ## 📫 Контакты
-- [🌐 Website](https://leimansite.pythonanywhere.com/) – сайт  
+- 🌐 Сайт: [Website](https://leimansite.pythonanywhere.com/)
 - Email: lejman.max@yandex.ru  
 - Telegram: [@maksim_l173](https://t.me/maksim_l173)  
