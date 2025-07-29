@@ -29,22 +29,23 @@ Here are some ideas to get you started:
 | 🔗     | Ссылки                             | `🔗 [LinkedIn](...) [Telegram](...)`     |
 -->
 
-# Привет! 👋
+# Привет! 👋  
 
-## 👨‍💻 О себе
+## 👨‍💻 О себе  
 
-- 🎓 Образование: ЮФУ - прикладная математика. ИКТИБ - автоматизированные системы управления.
-- 🌱 Изучаю: C#, C++, 
-- 💼 Работа: АО Гринатом
+- 🎓 Образование: ЮФУ - прикладная математика. ИКТИБ - автоматизированные системы управления.   
+- 🌱 Изучаю: C#, C++,   
+- 💼 Работа: АО Гринатом  
 
 
-## 🚀 Мои проекты:
+## 🚀 Мои проекты:  
 
-- [🔧 Задание ZALA](https://github.com/MALeyman/Zala_task) – Детектирование объектов с БПЛА (тестовое задание ZALA)
-- [ 🎓 Иннополис ](https://github.com/MALeyman/MAKSIM) – Занятия в Иннополис.
-- [🌐 Website](https://leimansite.pythonanywhere.com/) – сайт
+- [🛠️ Начало работы](https://github.com/MALeyman/dev-quickstart) - Установка библиотек python, Ubuntu.  
+- [🔧 Задание ZALA](https://github.com/MALeyman/Zala_task) – Детектирование объектов с БПЛА (тестовое задание ZALA)  
+- [ 🎓 Иннополис ](https://github.com/MALeyman/MAKSIM) – Занятия в Иннополис.  
+
 
 ## 📫 Контакты
-
-- Email: lejman.max@yandex.ru
-- Telegram: [@maksim_l173](https://t.me/maksim_l173)
+- [🌐 Website](https://leimansite.pythonanywhere.com/) – сайт  
+- Email: lejman.max@yandex.ru  
+- Telegram: [@maksim_l173](https://t.me/maksim_l173)  
