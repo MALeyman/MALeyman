@@ -110,28 +110,10 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [🛠️ Начало работы](https://github.com/MALeyman/dev-quickstart) - Установка библиотек python, Ubuntu.  
-- [🔧 Задание ZALA](https://github.com/MALeyman/Zala_task) – Детектирование объектов с БПЛА (тестовое задание ZALA)  
-- [ 🎓 Иннополис ](https://github.com/MALeyman/MAKSIM) – Занятия в Иннополис.  
-
 -------------------
-## 📫 Контакты
+## Контакты
 - 🌐 Сайт: [Website](https://leimansite.pythonanywhere.com/)  
 - Email: lejman.max@yandex.ru  
 - Telegram: [@maksim_l173](https://t.me/maksim_l173)  
-- [Содержание](#Содержание)   
+- [Содержание](#Содержание)
+- 📫 
