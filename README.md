@@ -117,4 +117,3 @@ Here are some ideas to get you started:
 - Email: lejman.max@yandex.ru  
 - Telegram: [@maksim_l173](https://t.me/maksim_l173)  
 - [Содержание](#Содержание)
-- 📫 
