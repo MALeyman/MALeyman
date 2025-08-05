@@ -33,15 +33,8 @@ Here are some ideas to get you started:
 
 # 👨‍💻 О себе:   
 
-
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin-right: 15px;"/>
-  <div>
-    - 🎓 Образование: ЮФУ - прикладная математика. ИКТИБ - автоматизированные системы управления<br>
-    - 🌱 Изучаю: C#, C++<br>
-    - 💼 Работа: АО Гринатом
-  </div>
-</div>
+| <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> | - 🎓 Образование: ЮФУ - прикладная математика. ИКТИБ - автоматизированные системы управления<br>- 🌱 Изучаю: C#, C++<br>- 💼 Работа: АО Гринатом |
+|---|---|
 
 
 
