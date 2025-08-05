@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
+| quickstart                 |Репозиторий quickstart          | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart) |
 | Начало работы              |Установка библиотек для работы  | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Begin) |
 | github                     | Работа с Git                   | [GitHub](https://github.com/MALeyman/dev-quickstart/blob/main/quickstart/Begin/git_hub.ipynb)  |
 | venv                       |работа с виртуальным окружением | [GitHub](https://github.com/MALeyman/dev-quickstart/blob/main/quickstart/Begin/venv.ipynb) |
