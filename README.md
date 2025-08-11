@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 
 # Приватные репозитории
 
---------------------------------
-
 ## Начало работы
 
 | Название                   | Описание                       | Ссылка                           |
@@ -68,7 +66,6 @@ Here are some ideas to get you started:
 | Pytorch                    |Работа с библиотекой Pytorch    | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Pytorch)  |
 | Working_Image              |Работа с изображениями          | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Working_Image)  |
 
---------------------------------------------------
 
 ## Обучение
 
@@ -124,6 +121,7 @@ Here are some ideas to get you started:
 - [pythonanywhere](https://www.pythonanywhere.com/)
 - [Содержание](#Содержание) 
 
+-------------------------
 
 
 
@@ -133,3 +131,5 @@ Here are some ideas to get you started:
 - Email: lejman.max@yandex.ru  
 - Telegram: [@maksim_l173](https://t.me/maksim_l173)  
 - [Содержание](#Содержание)
+
+-----------------------------
