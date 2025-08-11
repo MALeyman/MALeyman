@@ -42,14 +42,15 @@ Here are some ideas to get you started:
 -------------------------------------------
 
 # Содержание:
-- [Технологии](#Технологии)
-- [📫 Контакты](#Контакты)
 - [🛠️ Начало работы](#начало-работы)
+- [🛠️ Проекты](#проекты)
+  - [🛠️ Компьютерное зрение](#Компьютерное-зрение)
 - [🎓 Обучение](#обучение)
 - [🎓 Иннополис](#иннополис)
+- [Технологии](#Технологии)
+- [📫 Контакты](#Контакты)
 
-
-
+Компьютерное зрение
 
 --------------------------------
 
@@ -68,6 +69,18 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------
 
+## Проекты
+
+### Компьютерное зрение
+
+| Название                   | Описание                       | Ссылка                                       |
+|----------------------------|--------------------------------|----------------------------------------------|
+| Drone_Image_Object_Detection |Детекция с дрона              | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/CV/Drone_Image_Object_Detection)  |
+| Face_Keypoints_Detection     |Детекция ключевых точек лица  | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/CV/Face_Keypoints_Detection)  |
+| VAE_GAN_Face_Transformer     |Трансформация лиц VAE-GAN     | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/CV/VAE_GAN_Face_Transformer/vae_gan.ipynb)  |
+
+
+
 ## Обучение
 
 | Название                   | Описание                       | Ссылка                                       |
@@ -78,7 +91,6 @@ Here are some ideas to get you started:
 | 4. DL                      |Глубокое обучение обучение      | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/DL)  |
 | Pytorch                    |Работа с библиотекой Pytorch    | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Pytorch)  |
 | Working_Image              |Работа с изображениями          | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Working_Image)  |
-
 
 
 
