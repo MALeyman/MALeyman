@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ----------------------
 
-# <span style="color: red;">Приватные репозитории</span>
+<span style="color: red;">Приватные репозитории</span>
 
 ## Начало работы
 
