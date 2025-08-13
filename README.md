@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - [🛠️ Проекты](#проекты)
   - [🛠️ Компьютерное зрение](#Компьютерное-зрение)
   - [🛠️ Классификация](#Классификация)
+  - [🛠️ Регрессия](#Регрессия)
 - [🎓 Иннополис](#иннополис)
 ----
 - [Технологии](#Технологии)
@@ -81,6 +82,15 @@ Here are some ideas to get you started:
 | Классификация       |Классификация             | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/Classification)  | 
 | obesity_classification.ipyn    | Классификация ожирения (KNN, логистическая регрессия...)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Classification/obesity_classification/obesity_classification.ipynb)  |
 
+----------------------
+
+###  Регрессия
+
+| Название                   | Описание                       | Ссылка                           |
+|----------------------------|--------------------------------|----------------------------------------------|
+| Регрессия       |Регрессия             | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/Regression)  | 
+| arima_sarima.ipyn    | Временные ряды  (ARIMA, SARIMA)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Regression/ARIMA_SARIMA/arima_sarima.ipynb)  |
+| polinom_regression.ipyn    | Линейная регрессия (LinearRegression, sm.OLS)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Regression/Linear_Regression/polinom_regression.ipynb)  |
 
 
 
