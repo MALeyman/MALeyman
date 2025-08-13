@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 # Открытые репозитории
 
-## ___Проекты___
+## [___Проекты___](https://github.com/MALeyman/projects/tree/main)
 
 ### Компьютерное зрение
 
