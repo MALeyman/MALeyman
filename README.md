@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 |----------------------------|--------------------------------|----------------------------------------------|
 | Классификация       |Классификация             | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/Classification)  | 
 | obesity_classification.ipyn    | Классификация ожирения (KNN, логистическая регрессия...)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Classification/obesity_classification/obesity_classification.ipynb)  |
+| svm_classification.ipynb | Классификация   SVM | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Classification/SVM/svm_classification.ipynb)  | 
 
 ----------------------
 
