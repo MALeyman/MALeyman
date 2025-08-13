@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
+| Классификация       |Классификация             | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/Classification)  | 
 | obesity_classification.ipyn    | Классификация ожирения (KNN, логистическая регрессия...)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Classification/obesity_classification/obesity_classification.ipynb)  |
 
 
