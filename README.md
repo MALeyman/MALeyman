@@ -52,10 +52,6 @@ Here are some ideas to get you started:
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
 | quickstart                 |Репозиторий quickstart          | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main) |
-| Начало работы              |Установка библиотек для работы  | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Begin) |
-| Pytorch                    |Работа с библиотекой Pytorch    | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Pytorch)  |
-| Working_Image              |Работа с изображениями          | [GitHub](https://github.com/MALeyman/dev-quickstart/tree/main/quickstart/Working_Image)  |
-
 
 ---------------------------------------------------------
 
