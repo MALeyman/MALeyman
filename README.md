@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 | 🔗     | Ссылки                             | `🔗 [LinkedIn](...) [Telegram](...)`     |
 -->
 
-# Привет! 👋     <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
-</div>  
+# Привет! 👋     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
+
 ------------
 
 <div>
