@@ -59,6 +59,7 @@ Here are some ideas to get you started:
   - [🛠️ Компьютерное зрение](#Компьютерное-зрение)
   - [🛠️ Классификация](#Классификация)
   - [🛠️ Регрессия](#Регрессия)
+  - [🛠️ Языковые модели](#NLP)
 - [🎓 Иннополис](#иннополис)
 ----
 - [Технологии](#Технологии)
@@ -108,6 +109,14 @@ Here are some ideas to get you started:
 |----------------------------|--------------------------------|----------------------------------------------|
 | arima_sarima.ipynb   | Временные ряды  (ARIMA, SARIMA)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Regression/ARIMA_SARIMA/arima_sarima.ipynb)  |
 | polinom_regression.ipynb  | Линейная регрессия (LinearRegression, sm.OLS)  | [GitHub](https://github.com/MALeyman/projects/blob/main/ML/Regression/Linear_Regression/polinom_regression.ipynb)  |
+
+-------------------------------   
+
+###  [NLP](https://github.com/MALeyman/projects/tree/main/ML/NLP)
+
+| Название                   | Описание                       | Ссылка                           |
+|----------------------------|--------------------------------|----------------------------------------------|
+| imdb   | Предсказание рейтинга отзыва к фильму  (LSTM)  | [GitHub](https://github.com/MALeyman/projects/tree/main/ML/NLP/imdb)  |
 
 
 
