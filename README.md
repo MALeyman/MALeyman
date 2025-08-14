@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | 🔗     | Ссылки                             | `🔗 [LinkedIn](...) [Telegram](...)`     |
 -->
 
-# Привет! 👋  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+# Привет! 👋 
 ------------
 
 <div>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 # **Приватные репозитории**
 
-## Начало работы
+## Начало работы  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
