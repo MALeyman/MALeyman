@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | 🔗     | Ссылки                             | `🔗 [LinkedIn](...) [Telegram](...)`     |
 -->
 
-# Привет! 👋  
+# Привет! 👋  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ------------
 
 <div>
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 
 # 👨‍💻 О себе:   
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Начинающий разработчик.
 
 | <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> |  - 🎓 Образование: ЮФУ - прикладная математика. ИКТИБ - автоматизированные системы управления<br>- 🌱 Изучаю: C#, C++<br>- 💼 Работа: АО Гринатом |
 |:---|:---|
