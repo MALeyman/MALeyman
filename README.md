@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
-| DjangoAuthManager   |   Управление доступом и разграничение прав   | [GitHub](https://github.com/MALeyman/projects/tree/main/Django/DjangoAuthManager)  |
+| AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/projects/tree/main/Django/DjangoManagerAuth)  |
 
 
 
