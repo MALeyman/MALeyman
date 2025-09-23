@@ -174,7 +174,9 @@ Here are some ideas to get you started:
 # 👨‍💻 О себе:   
 
 
-| <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> |  - 🎓 Образование: ЮФУ - прикладная математика. ИКТИБ - автоматизированные системы управления<br>- 🌱 Изучаю: C#, C++<br>- 💼 Работа: АО Гринатом |
+| <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> |  - 🎓 Образование:  
+<br>   ЮФУ - прикладная математика.  
+<br>   ИКТИБ - автоматизированные системы управления<br>- 💼 Работа: АО Гринатом |
 |:---|:---|
 
 
