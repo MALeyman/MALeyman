@@ -138,11 +138,11 @@ Here are some ideas to get you started:
 ----------------------
 
 
-#  [Django](https://github.com/MALeyman/django)
+#  [Django](https://github.com/MALeyman/1_django)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
-| AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/django/tree/main/DjangoManagerAuth)  |
+| AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/1_django/tree/main/DjangoManagerAuth)  |
 
 
 
