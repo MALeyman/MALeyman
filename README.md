@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 # Открытые репозитории
 
-## [___Проекты___](https://github.com/MALeyman/projects/tree/main)
+## [___Проекты___](https://github.com/MALeyman/training_courses_tests/tree/main)
 
 
 # [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/training_courses_tests/tree/main/ML)  
