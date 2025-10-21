@@ -129,11 +129,11 @@ Here are some ideas to get you started:
 ------------------------------- 
 
 
-#  [Gradio](https://github.com/MALeyman/projects/tree/main/Gradio)
+#  [Gradio](https://github.com/MALeyman/1_Gradio)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
-| gradio   | Демонстрация моделей (детекция, сегментация, интерполяция изображений  | [GitHub](https://github.com/MALeyman/projects/blob/main/Gradio/gradio_projects/main.ipynb)  |
+| gradio   | Демонстрация моделей (детекция, сегментация, интерполяция изображений  | [GitHub](https://github.com/MALeyman/1_Gradio/tree/main/1_gradio_projects)  |
 
 ----------------------
 
