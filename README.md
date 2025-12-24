@@ -63,6 +63,8 @@ Here are some ideas to get you started:
   - [🛠️ Проекты на Gradio](#Gradio)
   - [🛠️ Проекты Django](#Django)
   - [ Проекты MATLAB](#Matlab)
+      - п
+      - щщ
 
 ------
 - [Технологии](#Технологии)
