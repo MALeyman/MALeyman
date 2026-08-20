@@ -5,8 +5,8 @@
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
 | GRADIO |Демонстрация работы моделей ML   | [GitHub](https://github.com/MALeyman/1_Gradio/tree/main/1_gradio_projects)  | демонстрация |
 | path_planner    |Планировщик перемещения в 3D  | [GitHub](https://github.com/MALeyman/matlab/tree/main/path_planner)  | Matlab  |
-| Chess     |Предсказание следующего хода в шахматах   | [GitHub](https://github.com/MALeyman/Chess/tree/main/chess)  | Python  |
-
+| Chess     |Предсказание следующего хода в шахматах   | [GitHub](https://github.com/MALeyman/Chess/tree/main)  | Python  |
+| AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/Django-authorization/tree/main/DjangoManagerAuth)  | Django |
 
 ------------------------------- 
 
