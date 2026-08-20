@@ -55,15 +55,17 @@ Here are some ideas to get you started:
 
 # Содержание:
 - [🛠️ Начало работы](#начало-работы)  - Закрытый репозиторий
-- [🛠️ Проекты](#проекты)
+- [🛠️ ML](#ML)
   - [ Компьютерное зрение](#Компьютерное-зрение)
   - [ Классификация](#Классификация)
   - [ Регрессия](#Регрессия)
   - [ Языковые модели](#NLP)
-  - [ Проекты на Gradio](#Gradio)
+  
+   
+- [🛠️ Проекты](#проекты)
   - [ Проекты Django](#Django)
   - [ Проекты MATLAB](#Matlab)
-
+  - [ Проекты на Gradio](#Gradio)
 
 ------
 - [Технологии](#Технологии)
@@ -84,7 +86,7 @@ Here are some ideas to get you started:
 
 # Открытые репозитории
 
-## [___Проекты___](https://github.com/MALeyman/2_training_courses_tests/tree/main)
+## [___ML___](https://github.com/MALeyman/2_training_courses_tests/tree/main)
 
 
 # [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML)  
@@ -130,6 +132,7 @@ Here are some ideas to get you started:
 
 ------------------------------- 
 
+## [___проекты___](https://github.com/MALeyman/2_training_courses_tests/tree/main) 
 
 #  [Gradio](https://github.com/MALeyman/1_Gradio)
 
