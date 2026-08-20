@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 # [___ML___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
 
 
-# [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)  
+# [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)  
 ## [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
 
 
