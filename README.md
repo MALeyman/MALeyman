@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 # Открытые репозитории
 
-## [___ML___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
+# [___ML___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
 
 
 # [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)  
@@ -108,32 +108,32 @@ Here are some ideas to get you started:
 
 ## [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
 
-| Название                   | Описание                       | Ссылка                           |
-|----------------------------|--------------------------------|----------------------------------------------|
-| obesity_classification.ipynb | Классификация ожирения (KNN, лог. регрессия...) | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Classification/obesity_classification/obesity_classification.ipynb)  |
-| svm_classification.ipynb | Классификация SVM | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Classification/SVM/svm_classification.ipynb) | 
+| Название                   | Описание                       | Ссылка                           |     Тип                           |
+|----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
+| obesity_classification.ipynb | Классификация ожирения  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Classification/obesity_classification/obesity_classification.ipynb)  | KNN, лог. регрессия...  |
+| svm_classification.ipynb | Классификация SVM | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Classification/SVM/svm_classification.ipynb) |  SVM |
 
 --------------------------
 
 ##  [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
 
-| Название                   | Описание                       | Ссылка                           |
-|----------------------------|--------------------------------|----------------------------------------------|
-| arima_sarima.ipynb    | Временные ряды  (ARIMA, SARIMA)  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Regression/ARIMA_SARIMA/arima_sarima.ipynb)  |
-| polinom_regression.ipynb    | Линейная регрессия (LinearRegression, sm.OLS)  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/Regression/Linear_Regression)  |
+| Название                   | Описание                       | Ссылка                           |     Тип                           |
+|----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
+| arima_sarima.ipynb    | Временные ряды   | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Regression/ARIMA_SARIMA/arima_sarima.ipynb)  | ARIMA, SARIMA |
+| polinom_regression.ipynb    | Линейная регрессия  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/Regression/Linear_Regression)  |  LinearRegression, sm.OLS |
 
 -------------------------------   
 
 ##  [NLP](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
 
-| Название                   | Описание                       | Ссылка                           |
-|----------------------------|--------------------------------|----------------------------------------------|
-| IMDb   |  Предсказание отзыва  (LSTM)  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/NLP/imdb)  |
+| Название                   | Описание                       | Ссылка                           |     Тип                           |
+|----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
+| IMDb   |  Предсказание отзыва    | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/NLP/imdb)  |  LSTM  |
 
 
 ------------------------------- 
 
-## [___ПРОЕКТЫ___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+# [___ПРОЕКТЫ___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
 
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
