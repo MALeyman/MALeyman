@@ -4,8 +4,8 @@
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
 | GRADIO |Демонстрация работы моделей ML   | [GitHub](https://github.com/MALeyman/1_Gradio)  | демонстрация |
-| Face_Keypoints_Detection     |Детекция ключевых точек лица (RetinaFace, Yolo + CustomNet) | [GitHub](https://github.com/MALeyman/training_courses_tests/tree/main/ML/CV/Face_Keypoints_Detection)  | Детекция  |
-| VAE_GAN_Face_Transformer     |Трансформация лиц (VAE-GAN)     | [GitHub](https://github.com/MALeyman/training_courses_tests/blob/main/ML/CV/VAE_GAN_Face_Transformer/vae_gan.ipynb)  | Генерация  |
+| path_planner    |Планировщик перемещения в 3D  | [GitHub](https://github.com/MALeyman/matlab/tree/main/path_planner)  | Matlab  |
+| Chess     |Предсказание следующего хода в шахматах   | [GitHub](https://github.com/MALeyman/Chess/tree/main/chess)  | Python  |
 
 
 ------------------------------- 
