@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 ------------------------------- 
 
-## [___проекты___](https://github.com/MALeyman/2_training_courses_tests/tree/main) 
+## [___ПРОЕКТЫ___](https://github.com/MALeyman/2_training_courses_tests/tree/main) 
 
 #  [Gradio](https://github.com/MALeyman/1_Gradio)
 
