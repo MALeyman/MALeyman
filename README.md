@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 
 # [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)  
-## [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)  
+## [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
 
 
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
