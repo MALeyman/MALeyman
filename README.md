@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 -------------------------------   
 
-##  [NLP](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
+##  [NLP](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#nlp)
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
