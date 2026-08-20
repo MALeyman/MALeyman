@@ -55,21 +55,22 @@ Here are some ideas to get you started:
 
 # Содержание:
 - [🛠️ Начало работы](#начало-работы)  - Закрытый репозиторий
-- [🛠️ ML](#ML)
-  - [ Компьютерное зрение](#Компьютерное-зрение)
-  - [ Классификация](#Классификация)
-  - [ Регрессия](#Регрессия)
-  - [ Языковые модели](#NLP)
+- [🛠️ ML](#ml)
+  - [ Компьютерное зрение](#компьютерное-зрение)
+  - [ Классификация](#классификация)
+  - [ Регрессия](#регрессия)
+  - [ Языковые модели](#nlp)
   
    
 - [🛠️ Проекты](#проекты)
-  - [ Проекты Django](#Django)
-  - [ Проекты MATLAB](#Matlab)
-  - [ Проекты на Gradio](#Gradio)
+  - [ Проекты Django](#проекты)
+  - [ Проекты MATLAB](#проекты)
+  - [ Проект на Gradio](#проекты)
+  - [ Шахматы ](#проекты)
 
 ------
-- [Технологии](#Технологии)
-- [📫 Контакты](#Контакты)
+- [Технологии](#технологии)
+- [📫 Контакты](#контакты)
 
 ----------------------
 
@@ -132,35 +133,14 @@ Here are some ideas to get you started:
 
 ------------------------------- 
 
-## [___ПРОЕКТЫ___](https://github.com/MALeyman/2_training_courses_tests/tree/main) 
+## [___ПРОЕКТЫ___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
 
-#  [Gradio](https://github.com/MALeyman/1_Gradio)
-
-| Название                   | Описание                       | Ссылка                           |
-|----------------------------|--------------------------------|----------------------------------------------|
-| gradio   | Демонстрация моделей (детекция, сегментация, интерполяция изображений  | [GitHub](https://github.com/MALeyman/1_Gradio/tree/main/1_gradio_projects)  |
-
-----------------------
-
-
-#  [Django](https://github.com/MALeyman/1_django)
-
-| Название                   | Описание                       | Ссылка                           |
-|----------------------------|--------------------------------|----------------------------------------------|
-| AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/1_django/tree/main/DjangoManagerAuth)  |
-
-
-
-
-----------------------------
-
-# [Matlab](https://github.com/MALeyman/matlab/tree/main)
-
-| Название                   | Описание                       | Ссылка                                       |    
-|----------------------------|--------------------------------|----------------------------------------------|
-|path_planer |Планировщик перемещений робота в 3D   | [GitHub](https://github.com/MALeyman/matlab/tree/main/path_planner)  |  
-
-
+| Название                   | Описание                       | Ссылка                                       |     Тип                           |
+|----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
+| GRADIO |Демонстрация работы моделей ML   | [GitHub](https://github.com/MALeyman/1_Gradio/tree/main/1_gradio_projects)  | демонстрация |
+| path_planner    |Планировщик перемещения в 3D  | [GitHub](https://github.com/MALeyman/matlab/tree/main/path_planner)  | Matlab  |
+| Chess     |Предсказание следующего хода в шахматах   | [GitHub](https://github.com/MALeyman/Chess/tree/main/chess)  | Python  |
+| AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/Django-authorization/tree/main/DjangoManagerAuth)  | Django |
 
 
 
