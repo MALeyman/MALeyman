@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 -----------------------------
 
-## [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
+## [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#классификация)
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 --------------------------
 
-##  [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
+##  [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#регрессия)
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
