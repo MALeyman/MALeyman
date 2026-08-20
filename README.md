@@ -87,11 +87,11 @@ Here are some ideas to get you started:
 
 # Открытые репозитории
 
-## [___ML___](https://github.com/MALeyman/2_training_courses_tests/tree/main)
+## [___ML___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
 
 
-# [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML)  
-## [Компьютерное зрение](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/CV)  
+# [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)  
+## [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)  
 
 
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 -----------------------------
 
-## [Классификация](https://github.com/MALeyman/training_courses_tests/tree/main/ML/Classification)
+## [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 --------------------------
 
-##  [Регрессия](https://github.com/MALeyman/training_courses_tests/tree/main/ML/Regression)
+##  [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 -------------------------------   
 
-##  [NLP](https://github.com/MALeyman/training_courses_tests/tree/main/ML/NLP)
+##  [NLP](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md)
 
 | Название                   | Описание                       | Ссылка                           |
 |----------------------------|--------------------------------|----------------------------------------------|
