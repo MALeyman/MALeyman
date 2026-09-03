@@ -145,7 +145,7 @@ Here are some ideas to get you started:
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
-| IMDb   |  Предсказание отзыва    | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/NLP/imdb)  |  LSTM  |
+| IMDb   |  Предсказание отзыва    | [GitHub](https://github.com/MALeyman/IMDb)  |  LSTM  |
 
 
 ------------------------------- 
