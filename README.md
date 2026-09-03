@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
-| obesity_classification.ipynb | Классификация ожирения  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Classification/obesity_classification/obesity_classification.ipynb)  | KNN, лог. регрессия...  |
+| obesity_classification.ipynb | Классификация ожирения  | [GitHub](https://github.com/MALeyman/Classification_of_obesity/blob/main/obesity_classification.ipynb)  | KNN, лог. регрессия...  |
 | svm_classification.ipynb | Классификация SVM | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Classification/SVM/svm_classification.ipynb) |  SVM |
 
 --------------------------
