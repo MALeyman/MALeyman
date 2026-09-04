@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
 | obesity_classification.ipynb | Классификация ожирения  | [GitHub](https://github.com/MALeyman/Classification_of_obesity/blob/main/obesity_classification.ipynb)  | KNN, LogReg...  |
-| svm_classification.ipynb | Классификация курения | [GitHub](https://github.com/MALeyman/Body_signal_of_smoking-/blob/main/svm_classification.ipynb) |  SVM, LogReg, Random Forest... |
+| svm_classification.ipynb | Классификация курения | [GitHub](https://github.com/MALeyman/Body_signal_of_smoking-/tree/main) |  SVM, LogReg, Random Forest... |
 
 --------------------------
 
