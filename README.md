@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 | Face_Keypoints_Detection     |Детекция ключевых точек лица (RetinaFace, Yolo + CustomNet) | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/CV/Face_Keypoints_Detection)  | Детекция  |
 | VAE_GAN_Face_Transformer     |Трансформация лиц (VAE-GAN)     | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/CV/VAE_GAN_Face_Transformer/vae_gan.ipynb)  | Генерация  |
 | Unet_Segmentation           |Сегментация Carvana (UNet)           | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/CV/Unet_Segmentation/unet_segmentation.ipynb)  | Сегментация |
-| Unet_Segmentation_2         |Сегментация Cityscapes  (UNet, DeepLab)           | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/CV/Unet_Segmentation_2)  | Сегментация |
+| Unet_Segmentation_2         |Сегментация Cityscapes  (UNet, DeepLab)           | [GitHub](https://github.com/MALeyman/Cityscapes_UNet_DeepLab/tree/main)  | Сегментация |
 | CNN_Sudoku_Scanner        |Сканер судоку MNIST (CNN, WarpTransform)      | [GitHub](https://github.com/MALeyman/CNN_Sudoku_Scanner)  | Классификация |
 | LeNet        | Классификация Fashion MNIST (LeNet)      | [GitHub](https://github.com/MALeyman/Fashion_MNIST_LeNet/tree/main)  | Классификация |
 
