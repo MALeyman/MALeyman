@@ -1,7 +1,8 @@
 
-# ___ПРОЕКТЫ___
+----------------------------------------------
 
-------------------------------
+# [___ПРОЕКТЫ___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
 | GRADIO |Демонстрация работы моделей ML   | [GitHub](https://github.com/MALeyman/1_Gradio/tree/main/1_gradio_projects)  | демонстрация |
@@ -11,5 +12,5 @@
 | AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/Django-authorization/tree/main/DjangoManagerAuth)  | Django |
 
 
-------------------------------- 
 
+------------------------ 
