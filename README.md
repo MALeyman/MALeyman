@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 | Unet_Segmentation           |Сегментация Carvana (UNet)           | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/CV/Unet_Segmentation/unet_segmentation.ipynb)  | Сегментация |
 | Unet_Segmentation_2         |Сегментация Cityscapes  (UNet, DeepLab)           | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/CV/Unet_Segmentation_2)  | Сегментация |
 | CNN_Sudoku_Scanner        |Сканер судоку MNIST (CNN, WarpTransform)      | [GitHub](https://github.com/MALeyman/CNN_Sudoku_Scanner)  | Классификация |
-| LeNet        | Классификация Fashion MNIST (LeNet)      | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/CV/LeNet/LeNet.ipynb)  | Классификация |
+| LeNet        | Классификация Fashion MNIST (LeNet)      | [GitHub](https://github.com/MALeyman/Fashion_MNIST_LeNet/tree/main)  | Классификация |
 
 -----------------------------
 
