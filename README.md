@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
-| arima_sarima.ipynb    | Временные ряды   | [GitHub](https://github.com/MALeyman/2_training_courses_tests/blob/main/ML/Regression/ARIMA_SARIMA/arima_sarima.ipynb)  | ARIMA, SARIMA |
+| arima_sarima    | Временные ряды   | [GitHub](https://github.com/MALeyman/arima_sarima/tree/main)  | ARIMA, SARIMA |
 | polinom_regression.ipynb    | Линейная регрессия  | [GitHub](https://github.com/MALeyman/2_training_courses_tests/tree/main/ML/Regression/Linear_Regression)  |  LinearRegression, sm.OLS |
 
 -------------------------------   
