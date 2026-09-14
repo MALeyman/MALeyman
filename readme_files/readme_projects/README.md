@@ -10,6 +10,7 @@
 | path_planner    |Планировщик перемещения в 3D  | [GitHub](https://github.com/MALeyman/path_planner/tree/main)  | Python  |
 | Chess     |Предсказание следующего хода в шахматах   | [GitHub](https://github.com/MALeyman/Chess/tree/main)  | Python  |
 | AuthManager   |   Авторизация. Управление доступом и разграничение прав (Django)  | [GitHub](https://github.com/MALeyman/Django-authorization/tree/main/DjangoManagerAuth)  | Django |
+| system-monitor | Мониторинг ресурсов компьютера (GPU, CPU, RAM)  | [GitHub](https://github.com/MALeyman/system-monitor/tree/main)  | Tkinter |
 
 
 
