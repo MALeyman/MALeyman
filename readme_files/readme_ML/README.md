@@ -36,6 +36,8 @@
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
 | arima_sarima    | Временные ряды   | [GitHub](https://github.com/MALeyman/arima_sarima/tree/main)  | ARIMA, SARIMA |
 | polinom_regression.ipynb    | Линейная регрессия  | [GitHub](https://github.com/MALeyman/polinom_regression)  |  LinearRegression, sm.OLS |
+| Predicting-equipment-failure | Предсказание индекса здоровья трансформатора  | [GitHub](https://github.com/MALeyman/Predicting-equipment-failure-)  |  catboost, optuna |
+
 
 -------------------------------   
 
