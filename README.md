@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
 | obesity_classification.ipynb | Классификация ожирения  | [GitHub](https://github.com/MALeyman/Classification_of_obesity/blob/main/obesity_classification.ipynb)  | KNN, LogReg...  |
 | svm_classification.ipynb | Классификация курения | [GitHub](https://github.com/MALeyman/Body_signal_of_smoking-/tree/main) |  SVM, LogReg, Random Forest... |
-| main_1.ipynb | Классификация месторождений нефти и газа| [GitHub](https://github.com/MALeyman/classification_of_oil_and_gas/tree/main) |  LogReg, Random Forest... |
+| classification_of_oil_and_gas | Классификация месторождений нефти и газа| [GitHub](https://github.com/MALeyman/classification_of_oil_and_gas/tree/main) |  LogReg, Random Forest... |
 
 
 --------------------------
