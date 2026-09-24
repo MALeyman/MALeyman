@@ -69,6 +69,8 @@ Here are some ideas to get you started:
   - [ Шахматы ](#проекты)
   - [ Мониторинг ресурсов компьютера ](#проекты)
 
+- [🛠️ Соревнования KAGGLE](#kaggle)
+
 ------
 - [Технологии](#технологии)
 - [📫 Контакты](#контакты)
@@ -152,6 +154,17 @@ Here are some ideas to get you started:
 
 
 ------------------------------- 
+
+##  [Kaggle](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
+
+| Название                   | Описание                       | Ссылка                           |     Тип                           |
+|----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
+| classification_of_oil_and_gas | Классификация месторождений нефти и газа| [GitHub](https://github.com/MALeyman/classification_of_oil_and_gas/tree/main) |  LogReg, Random Forest... |
+
+-------------------------------
+
+
+
 
 
 ## Технологии  
