@@ -55,21 +55,21 @@ Here are some ideas to get you started:
 
 # Содержание:
 - [🛠️ Начало работы](https://github.com/MALeyman/0_dev-quickstart/tree/main)  - Закрытый репозиторий
-- [🛠️ ML](#ml)
-  - [ Компьютерное зрение](#компьютерное-зрение)
-  - [ Классификация](#классификация)
-  - [ Регрессия](#регрессия)
-  - [ Языковые модели](#nlp)
+- [🛠️ML](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
+  - [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
+  - [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#классификация)
+  - [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#регрессия)
+  - [ Языковые модели](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#nlp)
   
    
-- [🛠️ Проекты](#проекты)
-  - [ Проекты Django](#проекты)
-  - [ Проекты MATLAB](#проекты)
-  - [ Проект на Gradio](#проекты)
-  - [ Шахматы ](#проекты)
-  - [ Мониторинг ресурсов компьютера ](#проекты)
+- [🛠️ Проекты](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Проекты Django](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Проекты MATLAB](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Проект на Gradio](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Шахматы ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Мониторинг ресурсов компьютера ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
 
-- [🛠️ Соревнования KAGGLE](#kaggle)
+- [🛠️ Соревнования KAGGLE](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
 
 ------
 - [Технологии](#технологии)
@@ -109,10 +109,7 @@ Here are some ideas to get you started:
 
 # [___ML___](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
 
-
-# [Машинное обучение/Глубокое обучение](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)  
 ## [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
-
 
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
