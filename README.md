@@ -63,9 +63,9 @@ Here are some ideas to get you started:
   
    
 - [🛠️ Проекты](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ Проекты Django](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ Проекты MATLAB](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ Проект на Gradio](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Django Авторизация ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ MATLAB Планировщик ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+  - [ Модели ML на Gradio](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
   - [ Шахматы ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
   - [ Мониторинг ресурсов компьютера ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
 
