@@ -1,19 +1,20 @@
 ------------------------ 
 
-# Машинное обучение/Глубокое обучение 
+# Машинное обучение
 
 ------------------------
+===========================
 
 ## Компьютерное зрение 
 
 
 | Название                   | Описание                       | Ссылка                                       |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
-| Drone_Image_Object_Detection |Детекция с дрона (Yolo, Fast-R-CNN, mobileNet)     | [GitHub](https://github.com/MALeyman/Drone_Object_Detection)  | Детекция |
+| Drone_Object_Detection |Детекция с дрона (Yolo, Fast-R-CNN, mobileNet)     | [GitHub](https://github.com/MALeyman/Drone_Object_Detection)  | Детекция |
 | Face_Keypoints_Detection     |Детекция ключевых точек лица (RetinaFace, Yolo + CustomNet) | [GitHub](https://github.com/MALeyman/Face_Keypoints_Detection)  | Детекция  |
 | VAE_GAN_Face_Transformer     |Трансформация лиц (VAE-GAN)     | [GitHub](https://github.com/MALeyman/VAE_GAN_Face_Transformer)  | Генерация  |
-| Unet_Segmentation           |Сегментация Carvana (UNet)           | [GitHub](https://github.com/MALeyman/Carvana_UNet/tree/main)  | Сегментация |
-| Unet_Segmentation_2         |Сегментация Cityscapes  (UNet, DeepLab)           | [GitHub](https://github.com/MALeyman/Cityscapes_UNet_DeepLab/tree/main)  | Сегментация |
+| Carvana_UNet          |Сегментация Carvana (UNet)           | [GitHub](https://github.com/MALeyman/Carvana_UNet/tree/main)  | Сегментация |
+| Cityscapes_UNet_DeepLab  |Сегментация Cityscapes  (UNet, DeepLab)           | [GitHub](https://github.com/MALeyman/Cityscapes_UNet_DeepLab/tree/main)  | Сегментация |
 | CNN_Sudoku_Scanner        |Сканер судоку MNIST (CNN, WarpTransform)      | [GitHub](https://github.com/MALeyman/CNN_Sudoku_Scanner)  | Классификация |
 | LeNet        | Классификация Fashion MNIST (LeNet)      | [GitHub](https://github.com/MALeyman/Fashion_MNIST_LeNet/tree/main)  | Классификация |
 
