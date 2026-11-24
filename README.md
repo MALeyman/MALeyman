@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   - [ Мониторинг ресурсов компьютера ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)
   - [ Python - Планировщик перемещения в 3D  ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)
 
-- [🛠️ Соревнования](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
+- [🛠️ Соревнования Kaggle, ODS](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
 
 ------
 - [Технологии](#технологии)
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 
 ------------------------------- 
 
-##  [Соревнования](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
+##  [Соревнования Kaggle, ODS]](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
