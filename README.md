@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 
 ------------------------------- 
 
-##  [Соревнования Kaggle, ODS]](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
+##  [Соревнования Kaggle, ODS](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
 
 | Название                   | Описание                       | Ссылка                           |     Тип                           |
 |----------------------------|--------------------------------|----------------------------------------------|-----------------------------------|
