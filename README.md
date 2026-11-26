@@ -54,14 +54,15 @@ Here are some ideas to get you started:
 -------------
 
 # Содержание:
-- [🛠️ Начало работы](https://github.com/MALeyman/0_dev-quickstart/tree/main)  - Закрытый репозиторий
+- [🛠️ Соревнования Kaggle, ODS](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle) 
+- [🛠️ quickstart](https://github.com/MALeyman/0_dev-quickstart/tree/main)  - Закрытый репозиторий
 - [🛠️ML](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
   - [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
   - [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#классификация)
   - [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#регрессия)
   - [ Языковые модели](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#nlp)
   
-   
+  
 - [🛠️ Проекты](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
   - [ Django - Авторизация ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
   - [ MATLAB - Планировщик ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
@@ -70,7 +71,6 @@ Here are some ideas to get you started:
   - [ Мониторинг ресурсов компьютера ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)
   - [ Python - Планировщик перемещения в 3D  ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)
 
-- [🛠️ Соревнования Kaggle, ODS](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)
 
 ------
 - [Технологии](#технологии)
