@@ -56,20 +56,20 @@ Here are some ideas to get you started:
 # Содержание:
 - [🛠️ Соревнования ](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)   -  Соревнования Kaggle, ODS
 - [🛠️ quickstart](https://github.com/MALeyman/0_dev-quickstart/tree/main)  - Закрытый репозиторий
-- [🛠️ML](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
+- [🛠️ML](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)  - Машинное обучение, нейронные сети:
   - [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
   - [Классификация](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#классификация)
   - [Регрессия](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#регрессия)
   - [ Языковые модели](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#nlp)
   
   
-- [🛠️ Проекты](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
+- [🛠️ Проекты](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)  -  Проекты:
   - [ Django - Авторизация ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ MATLAB - Планировщик ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ Модели ML на Gradio](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ Шахматы - предсказание  следующего хода](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects) 
-  - [ Мониторинг ресурсов компьютера ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)
-  - [ Python - Планировщик перемещения в 3D  ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)
+  - [ MATLAB - Планировщик ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)  -  Планировщик перемещения робота (БПЛА, подводный робот) в 3D пространстве
+  - [ Gradio](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)  - Модели ML на Gradio
+  - [ Шахматы ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)  - Предсказание  следующего хода
+  - [ Мониторинг ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)  -   Мониторинг ресурсов компьютера 
+  - [ Python - Планировщик ](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_projects)   -  Планировщик перемещения робота (БПЛА, подводный робот) в 3D пространстве
 
 
 ------
