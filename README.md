@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 -------------
 
 # Содержание:
-- [🛠️ Соревнования Kaggle, ODS](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle) 
+- [🛠️ Соревнования ](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_Kaggle)   -  Соревнования Kaggle, ODS
 - [🛠️ quickstart](https://github.com/MALeyman/0_dev-quickstart/tree/main)  - Закрытый репозиторий
 - [🛠️ML](https://github.com/MALeyman/MALeyman/tree/main/readme_files/readme_ML)
   - [Компьютерное зрение](https://github.com/MALeyman/MALeyman/blob/main/readme_files/readme_ML/README.md#компьютерное-зрение)  
